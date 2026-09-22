@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "wallpaper"
+rootProject.name = "ex4"
 include(":app")
  
